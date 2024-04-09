@@ -1,0 +1,35 @@
+.banner {
+    background-image: url('https://urlz.fr/qd04');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.banner-content {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.banner h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.banner .button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.banner .button:hover {
+    background-color: #0056b3;
+}
